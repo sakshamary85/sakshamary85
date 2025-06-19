@@ -1,5 +1,5 @@
 ![logo](https://github.com/sakshamary85/sakshamary85/blob/main/bannergithub.png)
-<h1 align="center">Hi 👋, I'm Saksham Kumar Arya</h1>
+<h1 align="center">Hi 👋, I'm Saksham Kumar</h1>
 <h3 align="center">An Aspiring Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamary85&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamary85" /> </p>
