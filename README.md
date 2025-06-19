@@ -1,4 +1,4 @@
-![logo](https://github.com/sakshamary85/sakshamary85/blob/main/bannergithub.png)
+![logo](https://github.com/sakshamary85/sakshamary85/blob/main/githubbanner_2.o.png)
 <h1 align="center">Hi 👋, I'm Saksham Kumar</h1>
 <h3 align="center">An Aspiring Data Scientist from India</h3>
 
